@@ -1,0 +1,33 @@
+@charset "UTF_8";
+
+@media screen and (max-width: 1294px){
+
+    #david_img{
+        height: 300px;
+    }
+
+    #projetos{
+        top: 165%;
+    }
+
+
+}
+
+@media screen and (max-width: 1356px){
+    #caixaformulario{
+        height: 550px;
+        top: 30px;
+    }
+
+    #formulario{
+            width: 60px; 
+            height: 200px;
+            position: relative;
+            margin: auto;
+            top: 50px;
+            left: -200px;
+            font-size: 15px;
+            padding: 10px;
+            text-align: left;
+    }
+}
